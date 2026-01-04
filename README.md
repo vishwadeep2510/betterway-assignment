@@ -65,6 +65,28 @@ src/
 ```
 
 ### Installation Guide
+---
+📥Step 1: Clone the Repository
+
+```bash
+git clone https://github.com/vishwadeep2510/betterway-assignment
+cd betterway-assignment
+```
+📦 Step 2: Install Dependencies
+
+Install all required packages using npm:
+```bash
+npm install
+```
+▶️ Step 3: Run the Application
+
+Start the development server:
+```bash
+npm run dev
+```
+The app will be live at http://localhost:5173
+
+
 
 
 
